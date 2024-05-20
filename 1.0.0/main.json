@@ -350,7 +350,7 @@
       "Title": "Ελληνικές Ταινίες \n (Σύγχρονες)",
       "Image": "https://urbanlife.gr/wp-content/uploads/2020/11/BeFunky-collage-scaled-e1604316199306.jpg",
       "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionET.json",
-      "isUnlocked": true
+      "isUnlocked": false
     },
     {
       "Title": "Ελληνικές Ταινίες \n (Παλιός Κινηματογράφος)",
@@ -376,7 +376,7 @@
       "Title": "Ελληνικές Τηλεοπτικές Σειρές",
       "Image": "https://mikrofwno.gr/wp-content/uploads/2021/09/seires-2021-2022-mikrofwno-3.jpg",
       "JSON": "https://med1altd.github.io/MovieFlixGlobal/basicVersionETS.json",
-      "isUnlocked": true
+      "isUnlocked": false
     }
   ],
   "Kids": [
