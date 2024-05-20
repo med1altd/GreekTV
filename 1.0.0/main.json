@@ -11,7 +11,7 @@
       "showInterstitialAdsVideo": false,
       "showRewardedInterstitialAds": false,
       "showAppOpenAds": false,
-      "enabledCastOption": true,
+      "enabledCastOption": false,
       "enabledServerAdRequestsCheck": false,
       "bypassLockedContent": true,
       "unlockOption": false,
